@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 c1 commit
 c3 commit
 c5 commit
+=======
+commit c3
+commit c4
+
+>>>>>>> branchb
